@@ -6,6 +6,7 @@ SQLAlchemy[asyncio]==2.0.38
 sqlalchemy-pytds==1.0.2
 sqlalchemy-stubs==0.4
 PyMySQL==1.1.1
+psycopg2==2.9.10
 pg8000==1.31.2
 asyncpg==0.30.0
 python-tds==1.16.0
