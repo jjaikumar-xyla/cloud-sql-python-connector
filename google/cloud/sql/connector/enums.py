@@ -62,6 +62,7 @@ class DriverMapping(Enum):
 
     ASYNCPG = "POSTGRES"
     PG8000 = "POSTGRES"
+    PSYCOPG2 = "POSTGRES"
     PYMYSQL = "MYSQL"
     PYTDS = "SQLSERVER"
 
